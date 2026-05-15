@@ -89,7 +89,6 @@ pip install tensorflow scikit-learn pandas numpy matplotlib seaborn
 | File | Description |
 |------|-------------|
 | `ABSA_Proj.ipynb` | Main notebook with full pipeline |
-| `ABSA_for_Big_Data.pdf` | Project presentation slides |
 
 ---
 
