@@ -89,10 +89,10 @@ pip install tensorflow scikit-learn pandas numpy matplotlib seaborn
 | File | Description |
 |------|-------------|
 | `ABSA_Proj.ipynb` | Main notebook with full pipeline |
-<<<<<<< HEAD
+
 
 =======
->>>>>>> a8401cb1ac914f67d947bdc982d8cf755c885369
+
 
 ---
 
