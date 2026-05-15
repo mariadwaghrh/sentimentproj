@@ -1,0 +1,21 @@
+# Dataset - too large for GitHub, download from Kaggle
+emotions.csv
+
+# Trained model files -
+*.keras
+*.h5
+*.pkl
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
